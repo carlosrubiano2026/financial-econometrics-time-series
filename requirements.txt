@@ -1,0 +1,6 @@
+```txt
+numpy
+pandas
+matplotlib
+statsmodels
+scipy
